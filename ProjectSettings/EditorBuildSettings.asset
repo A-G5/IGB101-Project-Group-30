@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Alyssa/Scenes/Assignment1 Scene.unity
+    path: Assets/Alyssa/Scenes/AG Scene.unity
     guid: c10a2c492e92bc94296242457676a297
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
