@@ -61,7 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\LevelSwitch.cs" />
-    <Compile Include="Assets\Alyssa Unique Assets\Third Person Controller\PlayerMovementAG.cs" />
+    <Compile Include="Assets\Alyssa Unique Assets\UniqueScripts\PlayerMovementAG.cs" />
     <Compile Include="Assets\Scripts\CameraMovement.cs" />
     <Compile Include="Assets\Alyssa Unique Assets\UniqueScripts\IceCreamScript.cs" />
     <Compile Include="Assets\Scripts\ThirdPersonCamera.cs" />
